@@ -1,0 +1,15 @@
+/home/khan/Work/C#/rock-paper-scissors/obj/Debug/net7.0/rock-paper-scissors.csproj.AssemblyReference.cache
+/home/khan/Work/C#/rock-paper-scissors/obj/Debug/net7.0/rock-paper-scissors.GeneratedMSBuildEditorConfig.editorconfig
+/home/khan/Work/C#/rock-paper-scissors/obj/Debug/net7.0/rock-paper-scissors.AssemblyInfoInputs.cache
+/home/khan/Work/C#/rock-paper-scissors/obj/Debug/net7.0/rock-paper-scissors.AssemblyInfo.cs
+/home/khan/Work/C#/rock-paper-scissors/obj/Debug/net7.0/rock-paper-scissors.csproj.CoreCompileInputs.cache
+/home/khan/Work/C#/rock-paper-scissors/bin/Debug/net7.0/rock-paper-scissors
+/home/khan/Work/C#/rock-paper-scissors/bin/Debug/net7.0/rock-paper-scissors.deps.json
+/home/khan/Work/C#/rock-paper-scissors/bin/Debug/net7.0/rock-paper-scissors.runtimeconfig.json
+/home/khan/Work/C#/rock-paper-scissors/bin/Debug/net7.0/rock-paper-scissors.dll
+/home/khan/Work/C#/rock-paper-scissors/bin/Debug/net7.0/rock-paper-scissors.pdb
+/home/khan/Work/C#/rock-paper-scissors/obj/Debug/net7.0/rock-paper-scissors.dll
+/home/khan/Work/C#/rock-paper-scissors/obj/Debug/net7.0/refint/rock-paper-scissors.dll
+/home/khan/Work/C#/rock-paper-scissors/obj/Debug/net7.0/rock-paper-scissors.pdb
+/home/khan/Work/C#/rock-paper-scissors/obj/Debug/net7.0/rock-paper-scissors.genruntimeconfig.cache
+/home/khan/Work/C#/rock-paper-scissors/obj/Debug/net7.0/ref/rock-paper-scissors.dll

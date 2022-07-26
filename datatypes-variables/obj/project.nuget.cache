@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NlEAUrHXS9WpvRc93SBLTJaXc4R77rT3x7/WRUkNZUcnDE18RV223XrYumJaRHOFfgppvo8TgHA8/Cf+wM16Vw==",
+  "success": true,
+  "projectFilePath": "/home/khan/Work/C#/datatypes-variables/datatypes-variables.csproj",
+  "expectedPackageFiles": [
+    "/home/khan/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.0-preview.5.22303.8/microsoft.aspnetcore.app.ref.7.0.0-preview.5.22303.8.nupkg.sha512"
+  ],
+  "logs": []
+}

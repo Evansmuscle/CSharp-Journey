@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "H5wJGmbBpF1Slf6qdfniY68odJTPM1K/GvbIlnCd4kpXAR3EFeGQNBfDpEDYsRuTS7DcSSG30VxwuNya1M/DFw==",
+  "success": true,
+  "projectFilePath": "/home/khan/Work/C#/hello-world/hello-world.csproj",
+  "expectedPackageFiles": [
+    "/home/khan/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.0-preview.5.22303.8/microsoft.aspnetcore.app.ref.7.0.0-preview.5.22303.8.nupkg.sha512"
+  ],
+  "logs": []
+}

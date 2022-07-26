@@ -1,0 +1,15 @@
+/home/khan/Work/C#/datatypes-variables/bin/Debug/net7.0/datatypes-variables
+/home/khan/Work/C#/datatypes-variables/bin/Debug/net7.0/datatypes-variables.deps.json
+/home/khan/Work/C#/datatypes-variables/bin/Debug/net7.0/datatypes-variables.runtimeconfig.json
+/home/khan/Work/C#/datatypes-variables/bin/Debug/net7.0/datatypes-variables.dll
+/home/khan/Work/C#/datatypes-variables/bin/Debug/net7.0/datatypes-variables.pdb
+/home/khan/Work/C#/datatypes-variables/obj/Debug/net7.0/datatypes-variables.csproj.AssemblyReference.cache
+/home/khan/Work/C#/datatypes-variables/obj/Debug/net7.0/datatypes-variables.GeneratedMSBuildEditorConfig.editorconfig
+/home/khan/Work/C#/datatypes-variables/obj/Debug/net7.0/datatypes-variables.AssemblyInfoInputs.cache
+/home/khan/Work/C#/datatypes-variables/obj/Debug/net7.0/datatypes-variables.AssemblyInfo.cs
+/home/khan/Work/C#/datatypes-variables/obj/Debug/net7.0/datatypes-variables.csproj.CoreCompileInputs.cache
+/home/khan/Work/C#/datatypes-variables/obj/Debug/net7.0/datatypes-variables.dll
+/home/khan/Work/C#/datatypes-variables/obj/Debug/net7.0/refint/datatypes-variables.dll
+/home/khan/Work/C#/datatypes-variables/obj/Debug/net7.0/datatypes-variables.pdb
+/home/khan/Work/C#/datatypes-variables/obj/Debug/net7.0/datatypes-variables.genruntimeconfig.cache
+/home/khan/Work/C#/datatypes-variables/obj/Debug/net7.0/ref/datatypes-variables.dll

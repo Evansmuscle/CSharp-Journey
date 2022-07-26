@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oYR4bzrzZNvNO31wnJV5k61L/oLEPg29VLqamLnf1hq+qTfkiUkWgcb2QdIeAEyvoDvyMV6cgePTDuDKzMRvEA==",
+  "success": true,
+  "projectFilePath": "/home/khan/Work/C#/rock-paper-scissors/rock-paper-scissors.csproj",
+  "expectedPackageFiles": [
+    "/home/khan/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.0-preview.5.22303.8/microsoft.aspnetcore.app.ref.7.0.0-preview.5.22303.8.nupkg.sha512"
+  ],
+  "logs": []
+}
