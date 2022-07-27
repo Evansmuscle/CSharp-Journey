@@ -1,0 +1,15 @@
+/home/khan/Work/C#/guessing-game/bin/Debug/net7.0/guessing-game
+/home/khan/Work/C#/guessing-game/bin/Debug/net7.0/guessing-game.deps.json
+/home/khan/Work/C#/guessing-game/bin/Debug/net7.0/guessing-game.runtimeconfig.json
+/home/khan/Work/C#/guessing-game/bin/Debug/net7.0/guessing-game.dll
+/home/khan/Work/C#/guessing-game/bin/Debug/net7.0/guessing-game.pdb
+/home/khan/Work/C#/guessing-game/obj/Debug/net7.0/guessing-game.csproj.AssemblyReference.cache
+/home/khan/Work/C#/guessing-game/obj/Debug/net7.0/guessing-game.GeneratedMSBuildEditorConfig.editorconfig
+/home/khan/Work/C#/guessing-game/obj/Debug/net7.0/guessing-game.AssemblyInfoInputs.cache
+/home/khan/Work/C#/guessing-game/obj/Debug/net7.0/guessing-game.AssemblyInfo.cs
+/home/khan/Work/C#/guessing-game/obj/Debug/net7.0/guessing-game.csproj.CoreCompileInputs.cache
+/home/khan/Work/C#/guessing-game/obj/Debug/net7.0/guessing-game.dll
+/home/khan/Work/C#/guessing-game/obj/Debug/net7.0/refint/guessing-game.dll
+/home/khan/Work/C#/guessing-game/obj/Debug/net7.0/guessing-game.pdb
+/home/khan/Work/C#/guessing-game/obj/Debug/net7.0/guessing-game.genruntimeconfig.cache
+/home/khan/Work/C#/guessing-game/obj/Debug/net7.0/ref/guessing-game.dll

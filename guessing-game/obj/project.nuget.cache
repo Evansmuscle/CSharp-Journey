@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7ygokZbHeE1x3ugJlPcfAiT/WxK7lRG/kLQUfLBInMgLED2UMcMuIAETWQ1l4tCyXLFdGZDSXkmFfC1zGWW38A==",
+  "success": true,
+  "projectFilePath": "/home/khan/Work/C#/guessing-game/guessing-game.csproj",
+  "expectedPackageFiles": [
+    "/home/khan/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.0-preview.5.22303.8/microsoft.aspnetcore.app.ref.7.0.0-preview.5.22303.8.nupkg.sha512"
+  ],
+  "logs": []
+}
