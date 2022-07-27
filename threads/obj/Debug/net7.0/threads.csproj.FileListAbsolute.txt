@@ -1,0 +1,15 @@
+/home/khan/Work/C#/threads/bin/Debug/net7.0/threads
+/home/khan/Work/C#/threads/bin/Debug/net7.0/threads.deps.json
+/home/khan/Work/C#/threads/bin/Debug/net7.0/threads.runtimeconfig.json
+/home/khan/Work/C#/threads/bin/Debug/net7.0/threads.dll
+/home/khan/Work/C#/threads/bin/Debug/net7.0/threads.pdb
+/home/khan/Work/C#/threads/obj/Debug/net7.0/threads.csproj.AssemblyReference.cache
+/home/khan/Work/C#/threads/obj/Debug/net7.0/threads.GeneratedMSBuildEditorConfig.editorconfig
+/home/khan/Work/C#/threads/obj/Debug/net7.0/threads.AssemblyInfoInputs.cache
+/home/khan/Work/C#/threads/obj/Debug/net7.0/threads.AssemblyInfo.cs
+/home/khan/Work/C#/threads/obj/Debug/net7.0/threads.csproj.CoreCompileInputs.cache
+/home/khan/Work/C#/threads/obj/Debug/net7.0/threads.dll
+/home/khan/Work/C#/threads/obj/Debug/net7.0/refint/threads.dll
+/home/khan/Work/C#/threads/obj/Debug/net7.0/threads.pdb
+/home/khan/Work/C#/threads/obj/Debug/net7.0/threads.genruntimeconfig.cache
+/home/khan/Work/C#/threads/obj/Debug/net7.0/ref/threads.dll
