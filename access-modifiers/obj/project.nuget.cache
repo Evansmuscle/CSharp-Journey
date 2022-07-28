@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gPgCE3/TNdzSev1aXqiA4gs9nmhsyGKA9B9Y14JO+5VNug7HDTeJjjVZh6iEZEp9F8Ka5OfFZhg0bHf6uamI3Q==",
+  "success": true,
+  "projectFilePath": "/home/khan/Work/C#/access-modifiers/access-modifiers.csproj",
+  "expectedPackageFiles": [
+    "/home/khan/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.0-preview.5.22303.8/microsoft.aspnetcore.app.ref.7.0.0-preview.5.22303.8.nupkg.sha512"
+  ],
+  "logs": []
+}

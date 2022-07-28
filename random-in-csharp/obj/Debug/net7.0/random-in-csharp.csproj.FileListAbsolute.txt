@@ -1,0 +1,15 @@
+/home/khan/Work/C#/random-in-csharp/bin/Debug/net7.0/random-in-csharp
+/home/khan/Work/C#/random-in-csharp/bin/Debug/net7.0/random-in-csharp.deps.json
+/home/khan/Work/C#/random-in-csharp/bin/Debug/net7.0/random-in-csharp.runtimeconfig.json
+/home/khan/Work/C#/random-in-csharp/bin/Debug/net7.0/random-in-csharp.dll
+/home/khan/Work/C#/random-in-csharp/bin/Debug/net7.0/random-in-csharp.pdb
+/home/khan/Work/C#/random-in-csharp/obj/Debug/net7.0/random-in-csharp.csproj.AssemblyReference.cache
+/home/khan/Work/C#/random-in-csharp/obj/Debug/net7.0/random-in-csharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/khan/Work/C#/random-in-csharp/obj/Debug/net7.0/random-in-csharp.AssemblyInfoInputs.cache
+/home/khan/Work/C#/random-in-csharp/obj/Debug/net7.0/random-in-csharp.AssemblyInfo.cs
+/home/khan/Work/C#/random-in-csharp/obj/Debug/net7.0/random-in-csharp.csproj.CoreCompileInputs.cache
+/home/khan/Work/C#/random-in-csharp/obj/Debug/net7.0/random-in-csharp.dll
+/home/khan/Work/C#/random-in-csharp/obj/Debug/net7.0/refint/random-in-csharp.dll
+/home/khan/Work/C#/random-in-csharp/obj/Debug/net7.0/random-in-csharp.pdb
+/home/khan/Work/C#/random-in-csharp/obj/Debug/net7.0/random-in-csharp.genruntimeconfig.cache
+/home/khan/Work/C#/random-in-csharp/obj/Debug/net7.0/ref/random-in-csharp.dll
