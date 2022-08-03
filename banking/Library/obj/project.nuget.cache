@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ShaI0NgDdzXE69j108gBQEN+a/CiaAZuKaYQ+zSM61SZ4hx0NOEnn83zZGrTWgQfGrUCJc2aIAHKEepbCMdPww==",
+  "success": true,
+  "projectFilePath": "/home/khan/Work/C#/banking/Library/Library.csproj",
+  "expectedPackageFiles": [
+    "/home/khan/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.0-preview.6.22330.3/microsoft.aspnetcore.app.ref.7.0.0-preview.6.22330.3.nupkg.sha512"
+  ],
+  "logs": []
+}

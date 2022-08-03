@@ -1,0 +1,12 @@
+/home/khan/Work/C#/interfaces/DemoLibrary/bin/Debug/net7.0/DemoLibrary.deps.json
+/home/khan/Work/C#/interfaces/DemoLibrary/bin/Debug/net7.0/DemoLibrary.dll
+/home/khan/Work/C#/interfaces/DemoLibrary/bin/Debug/net7.0/DemoLibrary.pdb
+/home/khan/Work/C#/interfaces/DemoLibrary/obj/Debug/net7.0/DemoLibrary.csproj.AssemblyReference.cache
+/home/khan/Work/C#/interfaces/DemoLibrary/obj/Debug/net7.0/DemoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/khan/Work/C#/interfaces/DemoLibrary/obj/Debug/net7.0/DemoLibrary.AssemblyInfoInputs.cache
+/home/khan/Work/C#/interfaces/DemoLibrary/obj/Debug/net7.0/DemoLibrary.AssemblyInfo.cs
+/home/khan/Work/C#/interfaces/DemoLibrary/obj/Debug/net7.0/DemoLibrary.csproj.CoreCompileInputs.cache
+/home/khan/Work/C#/interfaces/DemoLibrary/obj/Debug/net7.0/DemoLibrary.dll
+/home/khan/Work/C#/interfaces/DemoLibrary/obj/Debug/net7.0/refint/DemoLibrary.dll
+/home/khan/Work/C#/interfaces/DemoLibrary/obj/Debug/net7.0/DemoLibrary.pdb
+/home/khan/Work/C#/interfaces/DemoLibrary/obj/Debug/net7.0/ref/DemoLibrary.dll
